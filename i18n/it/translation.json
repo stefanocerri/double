@@ -1,0 +1,9 @@
+{
+  "auth": {
+    "signIn": "Sign in",
+    "signOut": "Sign out"
+  },
+  "steps": {
+    "nextStep": "Avanti"
+  }
+}

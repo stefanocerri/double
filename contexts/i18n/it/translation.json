@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "blog": "blog"
+  },
+  "viewType": {
+    "grid": "griglia",
+    "list": "lista"
+  },
+  "all": "tutti",
+  "from": "dalla",
+  "category": "categoria",
+  "back_to_blog": "Torna al blog",
+  "title": "Evoluzione",
+  "tagline": {
+    "speed": "Accelera",
+    "yourGrowth": "la tua crescita"
+  },
+  "actions": {
+    "close": "Chiudi"
+  },
+  "layout":{
+    "post-single": {
+      "title-contact-form": "Interessante? Chiedici una consulenza"
+    }
+  },
+  "page": "pagina",
+  "collections": {
+    "article" : {
+      "singular" : "articolo",
+      "plural" : "articoli",
+      "by": "articoli di",
+      "notFound": "Non sono stati trovati articoli",
+      "related": "Articoli correlati"
+    }
+  }
+}

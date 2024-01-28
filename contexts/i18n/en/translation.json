@@ -1,0 +1,36 @@
+{
+  "pages": {
+    "blog": "blog"
+  },
+  "viewType": {
+    "grid": "grid",
+    "list": "list"
+  },
+  "all": "all",
+  "from": "dalla",
+  "category": "category",
+  "back_to_blog": "Back to the blog",
+  "title": "Home",
+  "tagline": {
+    "speed": "Speed",
+    "yourGrowth": "your growth"
+  },
+  "actions": {
+    "close": "Close"
+  },
+  "page": "page",
+  "layout":{
+    "post-single": {
+      "title-contact-form": "Interesting? Ask us for advice"
+    }
+  },
+  "collections": {
+    "article" : {
+      "singular" : "article",
+      "plural" : "articles",
+      "by": "articles by",
+      "notFound": "Articles not found",
+      "related": "Related articles"
+    }
+  }
+}
